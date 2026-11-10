@@ -1,0 +1,20 @@
+{
+  "common": {
+    "title": "Aura Luxury Global Hospitality",
+    "bookNow": "Book Your Sanctuary",
+    "exploreDestinations": "Explore Destinations",
+    "search": "Search properties...",
+    "signIn": "Sign In",
+    "dashboard": "Loyalty Dashboard"
+  },
+  "nav": {
+    "brands": "Brands",
+    "destinations": "Destinations",
+    "investors": "Investor Relations",
+    "esg": "ESG & Sustainability",
+    "news": "Press & Newsroom",
+    "loyalty": "Aura Privilege",
+    "careers": "Careers"
+  }
+}
+

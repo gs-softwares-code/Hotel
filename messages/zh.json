@@ -1,0 +1,20 @@
+{
+  "common": {
+    "title": "Aura 全球奢华酒店集团",
+    "bookNow": "即刻预订尊享下榻",
+    "exploreDestinations": "探索全球目的地",
+    "search": "搜索精选酒店与度假村...",
+    "signIn": "登录账户",
+    "dashboard": "贵宾尊享仪表盘"
+  },
+  "nav": {
+    "brands": "旗下品牌",
+    "destinations": "全球目的地",
+    "investors": "投资者关系",
+    "esg": "ESG与可持续发展",
+    "news": "新闻中心",
+    "loyalty": "Aura尊享会",
+    "careers": "招贤纳士"
+  }
+}
+

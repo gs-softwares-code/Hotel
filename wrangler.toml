@@ -1,0 +1,26 @@
+name: aura-edge-production
+main: .open-next/worker.js
+compatibility_date: "2024-09-23"
+compatibility_flags:
+  - nodejs_compat
+
+# Native Edge D1 Database Binding
+d1_databases:
+  - binding: DB
+    database_name: aura-production-db
+    database_id: 11111111-2222-3333-4444-555555555555
+
+# Native Edge Object Storage (Direct Media Streaming)
+r2_buckets:
+  - binding: R2
+    bucket_name: aura-media-vault
+
+# Native Edge Key-Value Store (Feature Flags & Micro-Sessions)
+kv_namespaces:
+  - binding: KV
+    id: aaaa1111bbbb2222cccc3333dddd4444
+
+[vars]
+NEXT_PUBLIC_APP_URL = "https://aura.internal"
+NODE_ENV = "production"
+

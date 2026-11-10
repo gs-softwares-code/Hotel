@@ -1,0 +1,20 @@
+{
+  "common": {
+    "title": "Aura Hôtellerie Mondiale de Luxe",
+    "bookNow": "Réservez Votre Séjour",
+    "exploreDestinations": "Explorer les Destinations",
+    "search": "Rechercher des établissements...",
+    "signIn": "Se Connecter",
+    "dashboard": "Tableau de Bord Privilège"
+  },
+  "nav": {
+    "brands": "Marques",
+    "destinations": "Destinations",
+    "investors": "Relations Investisseurs",
+    "esg": "ESG & Durabilité",
+    "news": "Actualités & Presse",
+    "loyalty": "Aura Privilège",
+    "careers": "Carrières"
+  }
+}
+
